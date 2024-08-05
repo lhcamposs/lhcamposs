@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lhcamposs
 - 👀 I’m interested in Back End
-- 🌱 I’m currently learning C# and Java
-- 💞️ I’m looking to collaborate on any project in Java or C#
+- 🌱 I’m currently learning Java and Node.JS
+- 💞️ I’m looking to collaborate on any project in Java or Node.JS
 - 📫 How to reach me on
 - email: lhcampossoares@gmail.com
 
